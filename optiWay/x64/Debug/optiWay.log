@@ -1,3 +1,5 @@
 ﻿  optiWay.cpp
-C:\Users\Oleg Vasilev\Desktop\C++\optimalWay\optiWay\optiWay\optiWay.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  optiWay.vcxproj -> C:\Users\Oleg Vasilev\Desktop\C++\optimalWay\optiWay\x64\Debug\optiWay.exe
+C:\Users\Oleg Vasilev\Desktop\C++\optimalWay\f1\optiWay\optiWay.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Way.cpp
+  Создание кода...
+  optiWay.vcxproj -> C:\Users\Oleg Vasilev\Desktop\C++\optimalWay\f1\x64\Debug\optiWay.exe
